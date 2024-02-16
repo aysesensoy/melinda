@@ -1,0 +1,261 @@
+.container{
+    max-width: 1500px!important;
+}
+
+.logoo{
+margin-top: 28px;
+margin-left: 100px;
+width: 62px;
+height: 45px;
+background: transparent url('img/Melina Aero cdrom logo.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.navcolor{
+margin-top: 0px;
+margin-left: 0px;
+margin-right: 0px;
+min-width: 100%;
+max-width: 100%;
+height: 687px;
+background: rgb(237,28,36);
+background: linear-gradient(270deg, rgba(237,28,36,1) 0%, rgba(241,25,32,1) 35%, rgba(237,28,36,1) 100%);
+opacity: 1;
+}
+
+.menurenk{
+    background-color: #EF1A21!important;
+    
+}
+.menuyazi{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 40px;
+    font-size: 16px!important;
+    margin-top: 30px;
+    
+}
+
+.kutushadow{
+    box-shadow: 0px 3px 6px #00000029;
+opacity: 1;
+border-radius: 10px!important;
+}
+
+
+
+
+.biz{
+width: 100px;
+height: 21px;
+font-size: 16px;
+text-align: center;
+letter-spacing: 0px;
+
+opacity: 1;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
+.iletisim{
+    
+margin-top: 30px;
+width: 80px;
+height: 21px;
+font-size: 16px;
+text-align: center;
+letter-spacing: 0px;
+opacity: 1;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
+::placeholder {
+    color:#F01D24!important;
+  }
+
+  .arama{
+    margin-top: 32px!important;
+    margin-left: 100px!important;
+    width: 200px!important;
+    height: 30px!important;
+    font-size: 16px;
+    letter-spacing: 0px;
+    border-radius: 15px;
+    background-color: white;
+    margin-right: 200px;
+    }
+
+
+
+.aramabtn{
+    
+    margin-top: 60px!important;
+    height: 30px!important;
+    width: 30px!important;
+    
+}
+
+
+.imgara{
+float: right;
+padding: 7px;
+}
+
+.inputt{
+    width: 140px;
+    margin-top: -42px;
+    margin-left: 10px;
+    border: none;
+}
+
+.logo2{
+margin-top: 150px;
+
+min-width: 20%;
+max-width: 15%;
+max-height: 98px;
+}
+
+.logoyazi{
+color: white;
+font-size: 38px;
+top: 326px;
+max-width: 552px;
+height: 50px;
+}
+
+.logoyazi2{
+    color: white;
+    margin-top: 80px;
+    max-width: 619px;
+    height: 87px;
+    font-size: 24px;
+    }
+
+.gri{
+position: relative;
+    margin-top:53px;
+    width: 260px;
+    max-height: 66px;
+    float: right;
+    
+    
+
+    background: #4E4E4E 0% 0% no-repeat padding-box;
+border-radius: 20px 20px 0px 0px;
+opacity: 1;
+}
+
+.cardd{
+    border-radius: 20px!important;
+    box-shadow: 0px 3px 6px #00000036;
+    margin-top: 100px;
+    max-width: 674px;
+    color: #696969;  
+}
+
+
+.shadoww{
+    
+    margin-top: 50px;
+    max-width: 1396px;
+    min-height: 230px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000036;
+    border-radius: 20px;
+    opacity: 1;
+    padding: 20px;
+}
+
+.flownet{
+max-width: 472px;
+max-height: 56px;
+}
+
+.flownetkutu{
+    margin-top: 200px;
+    min-height: 102px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 0px 6px #00000029;
+opacity: 1;
+padding: 20px;
+}
+
+.flownetbtn{
+ margin-top: 1%;
+margin-left: 60%;
+width: 170px;
+height: 46px;
+background: #E41B23 0% 0% no-repeat padding-box;
+border: 0.5px solid #ED1C24;
+border-radius: 25px;
+opacity: 1;
+}
+
+
+.footerr{
+   
+    max-width: 100%;
+    min-height: 386px;
+    background: #4E4E4E 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.footerrlogo{
+margin-top: 25px;
+margin-left: 22%;
+width: 329px;
+height: 60px;
+}
+
+
+.footerİletisim2{
+    margin-top: 10px;
+    margin-bottom: -10px;
+     width: 200px;
+     color: white;
+     margin-left: 60px;
+}
+
+.footerİletisim{
+   
+    height: 40px;
+    width: 200px;
+    color: white;
+    padding-top: 7px;
+    margin-left: 60px;
+    }
+
+
+
+.faviconlar{
+    margin-bottom: -50px;
+}
+
+.harita{
+    max-width: 441px;
+    max-height: 300px;
+    border-radius: 15px;
+    margin-top: 70px;
+   
+    
+}
+
+.telif{
+left: 0px;
+max-width: 100%;
+height: 29px;
+background: transparent linear-gradient(270deg, #ED1C24 0%, #F11920 51%, #ED1C24 100%) 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.telifyazi{
+    text-align: center;
+font: Regular 17px/28px Segoe UI;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+
